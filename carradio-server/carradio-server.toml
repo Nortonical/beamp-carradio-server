@@ -1,0 +1,4 @@
+name = "RadioPlugin"
+description = "Multiplayer radio sync for BeamMP"
+version = "1.0"
+author = "Nortonic & Grok (xAI)"
