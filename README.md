@@ -1,9 +1,8 @@
 # BeamMP Radio System Mod
 
 ### Server-Side
-1. Place the plugin in `Resources/Server/RadioPlugin/`.
-2. Include `plugin.lua` and `plugin.toml`.
-3. Restart the BeamMP server to load the plugin.
+1. Create a folder named `carradio` in `Resources/Server` and extract contents into the foldler.
+2. Restart the BeamMP server to load the plugin.
 
 ## Usage
 
